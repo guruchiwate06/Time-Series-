@@ -1,0 +1,9 @@
+# Secrets and local credentials
+.env
+**/.env
+rootkey.csv
+**/rootkey.csv
+
+# Notebook-generated local state
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
