@@ -7,3 +7,17 @@ rootkey.csv
 # Notebook-generated local state
 .ipynb_checkpoints/
 **/.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+**/.venv/
+venv/
+**/venv/
+env/
+**/env/
+
+# Python cache & bytecode
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
